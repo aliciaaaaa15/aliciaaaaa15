@@ -91,19 +91,6 @@ Full-stack application for managing building areas and doors.
 
 ---
 
-### 🤖 Image Recognition Project
-Python-based project focused on image analysis and clothing recognition.
-
-- Detects the **type of garment** shown in an image
-- Identifies the **main color**
-- Returns **similar clothing items**
-- Combines **image processing and classification-related logic**
-
-**Repository**  
-[Add your repository link here]
-
----
-
 ### 🎮 Online Rummikub Game
 Online game implementation focused on backend logic and software quality.
 
@@ -113,6 +100,19 @@ Online game implementation focused on backend logic and software quality.
 
 **Repository**  
 [TQS_rummi](https://github.com/aliciaaaaa15/TQS_rummi)
+
+---
+
+### 🤖 Image Recognition Project
+Python-based project focused on image analysis and clothing recognition.
+
+- Detects the **type of garment** shown in an image and its **main color**
+- Returns **similar clothing items**
+- Combines **image processing and classification-related logic**
+- Developed in a **team of 3**
+
+**Repository**  
+[IA_image_recognition](https://github.com/aliciaaaaa15/IA_image_recognition.git)
 
 ---
 
@@ -136,9 +136,10 @@ C++ project inspired by map navigation systems.
 
 - Focused on **routing logic and problem solving**
 - Developed using **C++**
+- Developed in a **team of 2**
 
 **Repository**  
-[Add your repository link here]
+[LP_map_navigation](https://github.com/NIU1709497/LP_map_navigation.git)
 
 ---
 
