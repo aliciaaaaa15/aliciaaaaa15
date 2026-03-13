@@ -8,11 +8,11 @@ I enjoy understanding how systems work internally and building well-structured s
 
 ## About Me ~
 
-- [*] I’m currently working on a **team project with AI integration** for a course assignment: an app designed to manage fridges in shared flats, houses, and student accommodations.
-- [+] In this project, I am responsible for **testing, QA, and CI-related tasks**.
-- [~] I’m currently learning **Docker**, **Azure**, **Jira**, and **Big Data** concepts.
-- [>] I’m especially interested in **backend development**, while remaining open to exploring other areas of software engineering and technology.
-- [^] I enjoy learning continuously and taking on new technical challenges.
+- I’m currently working on a **team project with AI integration** for a course assignment: an app designed to manage fridges in shared flats, houses, and student accommodations.
+- In this project, I am responsible for **testing, QA, and CI-related tasks**.
+- I’m currently learning **Docker**, **Azure**, **Jira**, and **Big Data** concepts.
+- I’m especially interested in **backend development**, while remaining open to exploring other areas of software engineering and technology.
+- I enjoy learning continuously and taking on new technical challenges.
 
 ---
 
