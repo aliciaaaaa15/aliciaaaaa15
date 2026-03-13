@@ -1,3 +1,18 @@
+# Alicia Medina
+----------------
+
+## About Me ::
+## Contact ::
+## Technologies ::
+## Main Projects ::
+## Other Projects ::
+
+== About Me ==
+== Contact ==
+== Technologies ==
+# Hi, I'm Alicia (•ᴗ•)
+# Hi, I'm Alicia ^_^
+
 # Hey 👋 I'm Alicia
 
 I'm a Computer Engineering student interested in **backend development** and **software engineering**, with experience in academic projects involving **full-stack applications**, **backend logic**, **software quality**, and **testing**.
