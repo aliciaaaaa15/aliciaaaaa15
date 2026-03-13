@@ -22,6 +22,7 @@ I enjoy understanding how systems work internally and building well-structured s
 - **Email:** aliciamedinasillero@gmail.com
 - **Main GitHub:** [github.com/aliciaaaaa15](https://github.com/aliciaaaaa15)
 - **Academic GitHub:** [github.com/NIU1709497](https://github.com/NIU1709497)
+- **Portfolio:** [Portfolio Website](https://aliciaaaaa15.github.io/)
 
 ---
 
