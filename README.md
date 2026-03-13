@@ -1,19 +1,4 @@
-# Alicia Medina
-----------------
-
-## About Me ::
-## Contact ::
-## Technologies ::
-## Main Projects ::
-## Other Projects ::
-
-== About Me ==
-== Contact ==
-== Technologies ==
 # Hi, I'm Alicia (•ᴗ•)
-# Hi, I'm Alicia ^_^
-
-# Hey 👋 I'm Alicia
 
 I'm a Computer Engineering student interested in **backend development** and **software engineering**, with experience in academic projects involving **full-stack applications**, **backend logic**, **software quality**, and **testing**.
 
@@ -21,17 +6,17 @@ I enjoy understanding how systems work internally and building well-structured s
 
 ---
 
-## 🌱 About Me
+## About Me ~
 
-- 🔭 I’m currently working on a **team project with AI integration** for a course assignment: an app designed to manage fridges in shared flats, houses, and student accommodations.
-- ✅ In this project, I am responsible for **testing, QA, and CI-related tasks**.
-- 🌱 I’m currently learning **Docker**, **Azure**, **Jira**, and **Big Data** concepts.
-- 💡 I’m especially interested in **backend development**, while remaining open to exploring other areas of software engineering and technology.
-- 🚀 I enjoy learning continuously and taking on new technical challenges.
+- [*] I’m currently working on a **team project with AI integration** for a course assignment: an app designed to manage fridges in shared flats, houses, and student accommodations.
+- [+] In this project, I am responsible for **testing, QA, and CI-related tasks**.
+- [~] I’m currently learning **Docker**, **Azure**, **Jira**, and **Big Data** concepts.
+- [>] I’m especially interested in **backend development**, while remaining open to exploring other areas of software engineering and technology.
+- [^] I enjoy learning continuously and taking on new technical challenges.
 
 ---
 
-## 📫 Contact
+## Contact ~
 
 - **LinkedIn:** [linkedin.com/in/alicia-medina-sillero](https://linkedin.com/in/alicia-medina-sillero)
 - **Email:** aliciamedinasillero@gmail.com
@@ -41,7 +26,7 @@ I enjoy understanding how systems work internally and building well-structured s
 
 ---
 
-## 🛠 Technologies
+## Technologies ~
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -85,9 +70,9 @@ I enjoy understanding how systems work internally and building well-structured s
 
 ---
 
-## 🚀 Main Projects
+## Main Projects ~
 
-### 🏢 Building Management Application
+### Building Management Application
 Full-stack application for managing building areas and doors.
 
 - Backend developed in **Java**
@@ -107,7 +92,7 @@ Full-stack application for managing building areas and doors.
 
 ---
 
-### 🎮 Online Rummikub Game
+### Online Rummikub Game
 Online game implementation focused on backend logic and software quality.
 
 - Core game logic implemented in **Java**
@@ -119,7 +104,7 @@ Online game implementation focused on backend logic and software quality.
 
 ---
 
-### 🤖 Image Recognition Project
+### Image Recognition Project
 Python-based project focused on image analysis and clothing recognition.
 
 - Detects the **type of garment** shown in an image and its **main color**
@@ -132,7 +117,7 @@ Python-based project focused on image analysis and clothing recognition.
 
 ---
 
-### 🛒 Online Shop Web Application
+### Online Shop Web Application
 Web application developed following **MVC architecture**.
 
 - Backend implemented in **PHP**
@@ -145,9 +130,9 @@ Web application developed following **MVC architecture**.
 
 ---
 
-## 🧩 Other Projects
+## Other Projects ~
 
-### 🗺 Map Navigation Project
+### Map Navigation Project
 C++ project inspired by map navigation systems.
 
 - Focused on **routing logic and problem solving**
@@ -159,7 +144,7 @@ C++ project inspired by map navigation systems.
 
 ---
 
-### 🧪 Automated Testing for E-commerce
+### Automated Testing for E-commerce
 End-to-end automated testing project.
 
 - **19 automated test scenarios**
